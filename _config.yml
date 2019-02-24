@@ -20,33 +20,41 @@ excerpt_separator: "[-----]"
 mode: product
 url: https://gracious-wiles-f95923.netlify.com/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
-description: "Fanghao's personal weblog, on coding or such stuff"
+name: Coding With Ricky
+title: Coding With Ricky
+description: "Follow Ricky's Coding Adventures"
 
 my:
-    displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
-    jobTitle: "PHP Coder"
+    displayName: Ricky
+    realName: Richard Barella
+    jobTitle: "HPC Systems Engineer"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
-        qzone: http://744910240.qzone.qq.com
-        pinterest: https://www.pinterest.com/miblah/
-        tel: 15532915861
+        # qq: 744910240
+        email: ribab127@gmail.com
+        github: http://www.github.com/ribab
+        #qzone: http://744910240.qzone.qq.com
+        #pinterest: https://www.pinterest.com/miblah/
+        #tel: 15532915861
         address:
-            country: China
-            state: Beijing
-            city: Beijing
-            distribute: ChaoYang
-            postcode: 000000
-            cell: "AnHuiLi"
+            country: United States
+            state: Oregon
+            city: Portland
+            #distribute: ChaoYang
+            #postcode: 000000
+            #cell: "AnHuiLi"
     skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        HPC Systems: ["SLURM", "Warewulf", "Ansible", "Jenkins"]
+        Programming: ["Python", "C", "C++", "Java", "Bash"]
+        Machine Learning: ["Scipy", "Scikit-learn"]
+        Data Science: ["Pandas", "Matplotlib", "PySpark"]
+        Firmware: ["FreeRTOS", "Arduino", "Verilog HDL"]
+        Website Development: ["Django", "Jekyll", "MySQL"]
+        Simulation and Graphics: ["Java Slick2D", "C++ SFML", "C++ Allegro"]
+        Development Tools: ["Vim", "Git", "Github", "TortoiseSVN"]
+
+        #        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
+        #        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
+        #        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
 
 collections:
     qqGroupGuide:
